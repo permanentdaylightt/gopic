@@ -1,7 +1,7 @@
 /*
-Copyright © 2022 https://longtao.fun
-
+	Copyright © 2022 https://longtao.fun
 */
+
 package main
 
 import "github.com/OSTGO/gopic/cmd"
